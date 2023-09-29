@@ -75,7 +75,7 @@ In a world where urbanization and technology often disconnect us from nature, th
 
 ## Developers
 * [Gaurav Mishra](https://github.com/gauravmishra2123)
-* [Ambar Mishra](https://github.com/ambarmishraa)https://github.com/ambarmishraa)
+* [Ambar Mishra](https://github.com/ambarmishraa)
 * Yashi
 * Dev Sikka
 * Divyanshu
