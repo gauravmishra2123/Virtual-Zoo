@@ -40,4 +40,12 @@ By using Virtual reality (VR) to showcase complex ecosysystem of Flora and Fauna
 • I have used C# Language in Unity 3D. <br/>
 • I have used Microsoft Bot Framework for AI-powered chatbot . <br/>
 
-
+### Steps to Build the project:
+1. Create a virtual environment of Project and activate it.
+2. Install the required packages mentioned in `requirements.txt` file.
+3. Create 3D object models into blender/Maya software.
+4. Setup project in unity space for VR using XR Interaction Toolkit package.
+5. Import models of blender into unity 3d game engine.
+6. Production and deployment of 360° films hold educational importance.
+7. Using unity for development of Application.
+8. Final step is to deploy project into VR headset. 
