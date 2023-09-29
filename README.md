@@ -14,7 +14,6 @@ By using Virtual reality (VR) to showcase complex ecosysystem of Flora and Fauna
 7. Additionally, we offer an AI-powered chatbot and Mobile Application that is your own guide to the animal kingdom and is focused on wildlife.
 
 ### Project Objective:
-Project Objectives:
 
 1. Immersive Experience: Create an immersive and captivating user experience.
 2. Nature Connection: Foster a deeper connection with nature.
