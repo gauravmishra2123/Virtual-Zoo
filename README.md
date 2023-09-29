@@ -53,3 +53,11 @@ By using Virtual reality (VR) to showcase complex ecosysystem of Flora and Fauna
 
 ### Demo video of the project:
 - url: https://drive.google.com/file/d/1wktWljzeTDOkmzP5utnIS-H3Gu9ayEP-/view
+
+### Screenshots:
+
+<img width="1320" alt="Screenshot 2023-09-23 at 9 23 11 AM" src="https://github.com/gauravmishra2123/Virtual-Zoo/assets/114698901/54cb6e88-6f99-4abb-b2cb-44c10386aefa">
+
+<img width="1320" alt="Screenshot 2023-09-23 at 9 23 27 AM" src="https://github.com/gauravmishra2123/Virtual-Zoo/assets/114698901/83ce26b5-b2ee-40d5-a2b6-8566174a8832">
+
+![IMG_5450](https://github.com/gauravmishra2123/Virtual-Zoo/assets/114698901/ea89c9ed-345c-421c-adc2-cdb862644df7)
