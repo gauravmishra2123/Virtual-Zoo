@@ -15,13 +15,13 @@ By using Virtual reality (VR) to showcase complex ecosysystem of Flora and Fauna
 
 ### Project Objective:
 
-1. Provide Immersive Experience. <br/>
-2. Connect with Nature. <br/>
+1. Provide Immersive Experience.
+2. Connect with Nature. 
 3. Centralized Repository.<br/>
-4. Setup in small space, you can even enjoy it while sitting on your couch. <br/>
-5. Bring extinct animals and plants back to life.<br/>
-6. Provide Current IUCN status of species.<br/>
-7. User-Friendly Interface.<br/>
-8. Virtually transports you to continents across the globe.<br/>
-9. Effective Learning (no need to mug up with bulky Books )<br/>
+4. Setup in small space, you can even enjoy it while sitting on your couch. 
+5. Bring extinct animals and plants back to life.
+6. Provide Current IUCN status of species.
+7. User-Friendly Interface.
+8. Virtually transports you to continents across the globe.
+9. Effective Learning (no need to mug up with bulky Books )
 10. AI-powered chatbot and Mobile Application that is your own guide to the animal kingdom<br/>
