@@ -74,6 +74,6 @@ But this chatbot is more than just a repository of facts. It's a passionate advo
 In a world where urbanization and technology often disconnect us from nature, this AI-powered chatbot serves as a powerful reminder of the beauty, complexity, and fragility of the animal kingdom. It is a companion that educates, inspires, and empowers, forging a deeper connection between humanity and the wild, reminding us of the shared responsibility we bear to protect and preserve the wonders of our natural world.
 
 ## Developers
-* [Gaurav Mishra ]([https://github.com/gauravmishra2123])
+* [Gaurav Mishra](https://github.com/gauravmishra2123)
 * [Philip Park](https://philippark0203.itch.io/)
 * Jessica J Chen
