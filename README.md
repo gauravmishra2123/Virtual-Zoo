@@ -64,7 +64,4 @@ By using Virtual reality (VR) to showcase complex ecosysystem of Flora and Fauna
 
 ### AI-Powered Chatbot 
 
-![Picsart_23-09-22_20-53-34-751](https://github.com/gauravmishra2123/Virtual-Zoo/assets/114698901/3be10c4a-729b-4618-8024-93b7dbf96f3c)
-
-
-<img src="https://github.com/gauravmishra2123/Virtual-Zoo/assets/114698901/3be10c4a-729b-4618-8024-93b7dbf96f3c" width="100" height="100">
+<img src="https://github.com/gauravmishra2123/Virtual-Zoo/assets/114698901/3be10c4a-729b-4618-8024-93b7dbf96f3c" width="400" height="1000">
