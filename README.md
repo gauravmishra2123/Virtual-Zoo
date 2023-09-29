@@ -25,3 +25,8 @@ By using Virtual reality (VR) to showcase complex ecosysystem of Flora and Fauna
 8. Virtually transports you to continents across the globe.
 9. Effective Learning (no need to mug up with bulky Books )
 10. AI-powered chatbot and Mobile Application that is your own guide to the animal kingdom<br/>
+
+### <b>Flowchart of the process<b><br/>
+
+![Flowchart-3](https://github.com/gauravmishra2123/Virtual-Zoo/assets/114698901/8cab22bb-0b7a-4461-88a9-b7d8d7a3e09b)
+
