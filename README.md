@@ -65,5 +65,6 @@ By using Virtual reality (VR) to showcase complex ecosysystem of Flora and Fauna
 ### AI-Powered Chatbot 
 
 <img src="https://github.com/gauravmishra2123/Virtual-Zoo/assets/114698901/3be10c4a-729b-4618-8024-93b7dbf96f3c" align="right" width="400" height="1000">
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five nn
-centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Introducing our AI-powered chatbot, your personal gateway to the mesmerizing realm of wildlife. With a passionate focus on the animal kingdom, this virtual guide is your key to unlocking the secrets of Earth's diverse ecosystems. From the fierce predators of the savannah to the elusive creatures of the deep ocean, our chatbot stands ready to illuminate the wonders of nature.
+
+With its wealth of knowledge and a dedication to conservation, it offers a tailored experience. Whether you seek to understand animal behavior, explore unique habitats, or learn about endangered species, this chatbot is your compass through the wilderness of the natural world. Embark on a journey of discovery, one question at a time, and let this AI-powered companion be your guide to the captivating universe of wildlife.
