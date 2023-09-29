@@ -30,3 +30,14 @@ By using Virtual reality (VR) to showcase complex ecosysystem of Flora and Fauna
 
 ![Flowchart-3](https://github.com/gauravmishra2123/Virtual-Zoo/assets/114698901/8cab22bb-0b7a-4461-88a9-b7d8d7a3e09b)
 
+### Project Features:
+
+• I have Created a new virtual environment for this project and installed the required packages, which i have shared in requirements.txt   file. <br/>
+• I have used XR Interaction Toolkit package Framework for creating VR and AR experiences. It provides a common framework for interactions and streamlines cross-platform creation. <br/>
+• I have used Blender and Maya for 3D modeling of this project. <br/>
+• I have used Unity 3D and Unreal as a Game Engine. <br/>
+• I have used Oculus Quest 2 as a VR headset for Importing the project. <br/>
+• I have used C# Language in Unity 3D. <br/>
+• I have used Microsoft Bot Framework for AI-powered chatbot . <br/>
+
+
