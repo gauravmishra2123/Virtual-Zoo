@@ -33,11 +33,17 @@ By using Virtual reality (VR) to showcase complex ecosysystem of Flora and Fauna
 ### Project Features:
 
 • *Virtual Environment Setup:* I've established a new virtual environment for this project and installed the necessary packages, which are detailed in the `requirements.txt` file. </br>
+
 • *XR Interaction Toolkit:* I've leveraged the XR Interaction Toolkit package framework to develop immersive VR and AR experiences. This framework offers a unified platform for interactions and simplifies cross-platform development.</br>
+
 • *3D Modeling:* For creating 3D assets, I've utilized Blender and Maya, industry-standard tools for 3D modeling.</br>
+
 • *Game Engines:* I've employed both Unity 3D and Unreal Engine as powerful platforms for game development and interactive experiences.</br>
+
 • *VR Headset:* The project is compatible with the Oculus Quest 2 VR headset, ensuring an optimal VR experience for users.</br>
+
 • *Programming Language:* I've utilized the C# programming language within Unity 3D to implement various functionalities and interactions.</br>
+
 • *AI-Powered Chatbot:* To enhance user interactions, I've integrated the Microsoft Bot Framework, enabling the use of AI-powered chatbots for intelligent conversational experiences.</br>
 
 
