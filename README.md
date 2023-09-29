@@ -52,4 +52,4 @@ By using Virtual reality (VR) to showcase complex ecosysystem of Flora and Fauna
 
 
 ### Demo video of the project:
-https://drive.google.com/file/d/1wktWljzeTDOkmzP5utnIS-H3Gu9ayEP-/view
+- url: https://drive.google.com/file/d/1wktWljzeTDOkmzP5utnIS-H3Gu9ayEP-/view
