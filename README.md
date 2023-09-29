@@ -61,3 +61,7 @@ By using Virtual reality (VR) to showcase complex ecosysystem of Flora and Fauna
 <img width="1320" alt="Screenshot 2023-09-23 at 9 23 27 AM" src="https://github.com/gauravmishra2123/Virtual-Zoo/assets/114698901/83ce26b5-b2ee-40d5-a2b6-8566174a8832">
 
 ![IMG_5450](https://github.com/gauravmishra2123/Virtual-Zoo/assets/114698901/ea89c9ed-345c-421c-adc2-cdb862644df7)
+
+### AI-Powered Chatbot 
+
+![Picsart_23-09-22_20-53-34-751](https://github.com/gauravmishra2123/Virtual-Zoo/assets/114698901/3be10c4a-729b-4618-8024-93b7dbf96f3c)
